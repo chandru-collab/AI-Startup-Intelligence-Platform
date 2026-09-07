@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 AI Startup Intelligence Platform
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -257,4 +256,4 @@ This project is open-source under the [MIT License](LICENSE).
 =======
 # AI-Startup-Intelligence-Platform
 An autonomous platform for startup discovery, data verification, intelligence analysis, growth trajectory prediction, and executive PDF reporting.
->>>>>>> d72dadf8b71406d34f2eb2725ca67595dff6be2d
+
